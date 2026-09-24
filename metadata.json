@@ -1,0 +1,6 @@
+{
+  "name": "Mini-Noon E-Commerce Platform",
+  "description": "Full-stack Mini-Noon E-Commerce ecosystem featuring Customer App, Admin Operations, Event-Driven n8n Automation, and Interactive API Architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
